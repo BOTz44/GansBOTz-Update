@@ -4,19 +4,19 @@ let locale = 'id'
 //CREATOR = GEMPY , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
-  ['6289509960601', 'Deffri', true]  
+  ['6282142185506'],
+  ['6282142185506'],
+  ['6282142185506', 'Deffri', true]  
   
 ] 
-global.ownername = [['𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬']]
-global.namabot = [['𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛']]
+global.ownername = [['ANG']]
+global.namabot = [['YUI Chan']]
 global.wm2 = [['Hoh']]
 global.ownerinsta = [['@b4c00t.dtz']]
 global.instalu = [['instagram.com/b4c00t.dtz']]
-global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
+global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv']]
 global.mods = [] 
-global.prems = ['6289509960601'] 
+global.prems = ['6282142185506'] 
 
 
 global.APIs = { // API Prefix
@@ -55,8 +55,8 @@ if (stickerpack.spackname == '') {
   var sticker_name = 'Deffri Gans'
   var sticker_author = 'By GansBOTz'
 } else {
-  var sticker_name = '𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬'
-  var sticker_author = 'by 𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
+  var sticker_name = 'Yui 𝐆𝐚𝐧𝐬'
+  var sticker_author = 'by Yui𝑩𝑶𝑻𝒛'
 }
 
 const file_exif = "lib/exif.json"
